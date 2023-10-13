@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+header h1 {
+  font-size: 28px;
+  margin: 0;
+}
+
+table {
+  border-collapse: collapse;
+  width: 50%;
+  margin: 0 auto;
+}
+
+
+button {
+  background-color: #4f7edd;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
